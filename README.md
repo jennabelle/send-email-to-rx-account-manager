@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-
+● Create a custom object named Program__c
 
 Summary:
 
